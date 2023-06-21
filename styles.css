@@ -1,0 +1,24 @@
+article{
+    background-color: rgb(255, 170, 0);
+    padding:10px;
+    margin: 5px;
+
+}
+h1{
+    font-family: "Montserrat",sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+
+
+aside{
+  background-color:rgb(102, 199, 237);}
+
+a:link{
+text-decoration: none;
+
+}
+
+      
